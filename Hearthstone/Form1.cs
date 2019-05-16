@@ -8,13 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Hearthstone
+namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
         Card[] arrayAllCards = new Card[30];//an array holding all the spells
         Random randomCard = new Random();
-        
+
         public Form1()
         {
             InitializeComponent();
@@ -207,17 +207,11 @@ namespace Hearthstone
                 i++;
             }
         }
-        
-        private void btnStart_Click(object sender, EventArgs e)
+
+        private void btnConfirm_Click(object sender, EventArgs e)
         {
             StartUp();
             DeckShuffle();
-            MessageBox.Show("asd");
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 
@@ -230,6 +224,4 @@ namespace Hearthstone
         public bool Effect { get; set; } //fix this
     }
 }
-
-    
 

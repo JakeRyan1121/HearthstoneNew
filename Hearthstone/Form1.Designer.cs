@@ -1,4 +1,4 @@
-﻿namespace Hearthstone
+﻿namespace WindowsFormsApp1
 {
     partial class Form1
     {
@@ -49,7 +49,6 @@
             this.btnStart.TabIndex = 3;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = true;
-            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // Form1
             // 
@@ -60,7 +59,6 @@
             this.Controls.Add(this.lblShow);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
