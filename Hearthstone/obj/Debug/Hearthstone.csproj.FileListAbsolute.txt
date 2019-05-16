@@ -18,3 +18,13 @@ C:\Users\Jake Ryan Stephenson\Source\Repos\Hearthstone\Hearthstone3\Hearthstone\
 C:\Users\Jake Ryan Stephenson\Source\Repos\Hearthstone\Hearthstone3\Hearthstone\Hearthstone\obj\Debug\Hearthstone.csproj.CoreCompileInputs.cache
 C:\Users\Jake Ryan Stephenson\Source\Repos\Hearthstone\Hearthstone3\Hearthstone\Hearthstone\obj\Debug\Hearthstone.exe
 C:\Users\Jake Ryan Stephenson\Source\Repos\Hearthstone\Hearthstone3\Hearthstone\Hearthstone\obj\Debug\Hearthstone.pdb
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\obj\Debug\Hearthstone.csprojAssemblyReference.cache
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\obj\Debug\Hearthstone.Properties.Resources.resources
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\obj\Debug\Hearthstone.csproj.GenerateResource.cache
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\obj\Debug\Hearthstone.csproj.CoreCompileInputs.cache
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\obj\Debug\Hearthstone.exe
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\obj\Debug\Hearthstone.pdb
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\bin\Debug\Hearthstone.exe.config
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\bin\Debug\Hearthstone.exe
+E:\Projects hehe XD\stephenson.j Hearthstone\Hearthstone\bin\Debug\Hearthstone.pdb

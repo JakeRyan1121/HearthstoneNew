@@ -194,7 +194,7 @@ namespace WindowsFormsApp1
                 arrayAllCards[int2ndHalf].Name = strNameHolder;
                 //test message after switch
                 //MessageBox.Show(arrayCards[int1stHalf].Value + " " + arrayCards[int1stHalf].Suit + "\n" + arrayCards[int2ndHalf].Value + " " + arrayCards[int2ndHalf].Suit + "\n" + intValueHolder + " " + strSuitHolder);
-
+                // WHY ARE WE SCREAMING??????!!!!!!!!!!!!!!!!!!!!!!!!!!!>?!?
                 intCounter++;//add to counter
             }
 
@@ -208,7 +208,12 @@ namespace WindowsFormsApp1
             }
         }
 
-        private void btnConfirm_Click(object sender, EventArgs e)
+        private void lblShow_Click(object sender, EventArgs e)
+        {
+            lblShow.Text = "cool";
+        }
+
+        private void btnStart_Click(object sender, EventArgs e)
         {
             StartUp();
             DeckShuffle();
@@ -224,4 +229,3 @@ namespace WindowsFormsApp1
         public bool Effect { get; set; } //fix this
     }
 }
-

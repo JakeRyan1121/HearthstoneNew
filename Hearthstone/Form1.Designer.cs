@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-    partial class Form1
+    public partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -35,20 +35,22 @@
             // lblShow
             // 
             this.lblShow.AutoSize = true;
-            this.lblShow.Location = new System.Drawing.Point(42, 31);
+            this.lblShow.Location = new System.Drawing.Point(85, 36);
             this.lblShow.Name = "lblShow";
             this.lblShow.Size = new System.Drawing.Size(35, 13);
             this.lblShow.TabIndex = 2;
             this.lblShow.Text = "label1";
+            this.lblShow.Click += new System.EventHandler(this.lblShow_Click);
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(141, 31);
+            this.btnStart.Location = new System.Drawing.Point(158, 31);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(75, 23);
             this.btnStart.TabIndex = 3;
-            this.btnStart.Text = "Start";
+            this.btnStart.Text = "button1";
             this.btnStart.UseVisualStyleBackColor = true;
+            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // Form1
             // 
